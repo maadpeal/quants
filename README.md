@@ -37,3 +37,12 @@
   - **Importancia**: Evaluar riesgos, retornos y tomar decisiones basadas en datos.
   - **Aplicación**: Modelado financiero, análisis de riesgo y evaluación de inversiones.
 
+
+# 🎯 Línea de Tiempo: Master en Finanzas Cuantitativas
+
+▶️ Start  
+════════════════🖥️ **Módulo 0**: Fundamentos (1-2 meses)  
+════════════════════════════════════════📊 **Módulo I**: Introducción y Fundamentos Avanzados (3-4 meses)  
+════════════════════════════════════════════════════════🖥️ **Módulo II**: Aplicaciones y Especialización (4-5 meses)  
+══════════════📉 **Adicionales @--** (1-2 meses)  
+▶️ End
