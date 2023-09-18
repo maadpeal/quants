@@ -3,30 +3,37 @@
 
 ---
 
-## 🌟 **Módulo 0**: Fundamentos
+## 🌟 **Módulo 0**: Fundamentos (Estimado: 1-2 meses)
 - 🖥️ [**Fundamentos Computacionales**](./Módulo_0_-_Fundamentos/Fundamentos_Computacionales/README.md)
+  - **Importancia**: Proporciona una base sólida para el análisis y modelado financiero.
+  - **Aplicación**: Automatización de tareas, análisis de datos y desarrollo de algoritmos financieros.
+  
 - 💰 [**Fundamentos Financieros**](./Módulo_0_-_Fundamentos/Fundamentos_Financieros/README.md)
+  - **Importancia**: Esencial para entender cómo funcionan los mercados y las decisiones financieras.
+  - **Aplicación**: Valoración de activos, análisis de inversiones y toma de decisiones financieras.
 
 ---
 
-## 🌟 **Módulo I**: Introducción y Fundamentos Avanzados
+## 🌟 **Módulo I**: Introducción y Fundamentos Avanzados (Estimado: 3-4 meses)
 - 📊 [**Introducción a los Mercados Financieros**](./Módulo_I_-_Introducción_y_Fundamentos_Avanzados/Introducción_a_los_Mercados_Financieros/README.md)
+  - **Importancia**: Entender el comportamiento y funcionamiento de los mercados.
+  - **Aplicación**: Operar en bolsa, análisis de tendencias y predicción de movimientos del mercado.
+  
 - 📈 [**Instrumentos Financieros**](./Módulo_I_-_Introducción_y_Fundamentos_Avanzados/Instrumentos_Financieros/README.md)
-- 🐍 [**Fundamentos Computacionales (Avanzado)**](./Módulo_I_-_Introducción_y_Fundamentos_Avanzados/Fundamentos_Computacionales_(Avanzado)/README.md)
-- 🧮 [**Fundamentos Matemáticos**](./Módulo_I_-_Introducción_y_Fundamentos_Avanzados/Fundamentos_Matemáticos/README.md)
+  - **Importancia**: Conocimiento de las herramientas disponibles en el mercado.
+  - **Aplicación**: Inversiones, coberturas y estrategias de trading.
 
 ---
 
-## 🌟 **Módulo II**: Aplicaciones y Especialización
+## 🌟 **Módulo II**: Aplicaciones y Especialización (Estimado: 4-5 meses)
 - 🖥️ [**Fundamentos Computacionales**](./Módulo_II_-_Aplicaciones_y_Especialización/Fundamentos_Computacionales/README.md)
-- 📝 [**Fundamentos de Valoración**](./Módulo_II_-_Aplicaciones_y_Especialización/Fundamentos_de_Valoración/README.md)
-- ⚠️ [**Riesgos**](./Módulo_II_-_Aplicaciones_y_Especialización/Riesgos/README.md)
-- 💹 [**Capital Económico y Benchmarking**](./Módulo_II_-_Aplicaciones_y_Especialización/Capital_Económico_y_Benchmarking/README.md)
-
+  - **Importancia**: Profundizar en técnicas avanzadas de programación y análisis.
+  - **Aplicación**: Desarrollo de software financiero avanzado y análisis de grandes conjuntos de datos.
+  
 ---
 
-## 📌 **Adicionales @--**:
+## 📌 **Adicionales @--** (Estimado: 1-2 meses):
 - 📉 [**Análisis Cuantitativo**](./Adicionales/Análisis_Cuantitativo/README.md)
-- 🛠️ [**Herramientas Financieras Específicas**](./Adicionales/Herramientas_Financieras_Específicas/README.md)
-- 🗂️ [**Gestión de Proyectos y Habilidades Blandas**](./Adicionales/Gestión_de_Proyectos_y_Habilidades_Blandas/README.md)
+  - **Importancia**: Evaluar riesgos, retornos y tomar decisiones basadas en datos.
+  - **Aplicación**: Modelado financiero, análisis de riesgo y evaluación de inversiones.
 
