@@ -48,9 +48,61 @@
 ▶️ End
 
 
+---
+
 ## Ponderación por item
 
+| **Módulo/Categoría**                  | **Ponderación** |
+|---------------------------------------|-----------------|
+| Módulo 0: Fundamentos                 |                 |
+| A. Fundamentos Computacionales        |                 |
+| Excel                                 | 7               |
+| Python (Básico)                       | 9               |
+| Bases de Datos                        | 6               |
+| B. Fundamentos Financieros            |                 |
+| Aritmética Financiera                 | 8               |
+| Módulo I: Introducción y Fundamentos Avanzados |         |
+| A. Introducción a los Mercados Financieros |             |
+| Mercados de Capitales                | 9               |
+| Entidades Financieras y de Seguros    | 7               |
+| Contabilidad                          | 6               |
+| Riesgos Financieros                   | 8               |
+| B. Instrumentos Financieros           |                 |
+| Mercados e Instrumentos Financieros   | 9               |
+| Futuros, Forwards y Opciones          | 8               |
+| Índices sobre Tipos de Interés        | 7               |
+| Interest Rate Swaps y Curvas de Tipos | 8               |
+| Caps, Floors y Swaptions              | 7               |
+| Curva de Probabilidades de Solvencia e Instrumentos de Crédito | 6 |
+| C. Fundamentos Computacionales (Avanzados) |               |
+| Python (Avanzado)                     | 9               |
+| D. Fundamentos Matemáticos            |                 |
+| Probabilidad y Simulación             | 8               |
+| Procesos Estocásticos                 | 7               |
+| Módulo II: Aplicaciones y Especialización |             |
+| A. Fundamentos Computacionales        |                 |
+| Cálculo Numérico                      | 8               |
+| Técnicas de Simulación                | 9               |
+| Cálculo Numérico Avanzado             | 8               |
+| B. Fundamentos de Valoración          |                 |
+| Valoración por Replicación y No Arbitraje | 9             |
+| Modelos Discretos                     | 7               |
+| Entorno Black                         | 8               |
+| Modelo Normal y Shifted-Lognormal     | 7               |
+| C. Riesgos                            |                 |
+| Riesgo de Mercado                     | 9               |
+| Riesgo de Crédito y Operacional       | 8               |
+| D. Capital Económico y Benchmarking   |                 |
+| Modelos Regulatorios                  | 7               |
+| E. Adicionales @--                    |                 |
+| Análisis Cuantitativo                 | 8               |
+| Herramientas Financieras Específicas   | 7               |
+| Gestión de Proyectos y Habilidades Blandas | 6         |
+
+
 ---
+
+## Listado de contenidos: (completo)
 
 ## Módulo 0: Fundamentos
 
