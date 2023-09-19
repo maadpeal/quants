@@ -9,9 +9,14 @@
 - 🖥️ [**Fundamentos Computacionales**](./Módulo_0_-_Fundamentos/Fundamentos_Computacionales/README.md)
   - **Importancia**: Proporciona una base sólida para el análisis y modelado financiero.
   - **Aplicación**: Automatización de tareas, análisis de datos y desarrollo de algoritmos financieros.
+  
 - 💰 [**Fundamentos Financieros**](./Módulo_0_-_Fundamentos/Fundamentos_Financieros/README.md)
   - **Importancia**: Esencial para entender cómo funcionan los mercados y las decisiones financieras.
   - **Aplicación**: Valoración de activos, análisis de inversiones y toma de decisiones financieras.
+  
+- 📈 [**Matemática Básica**](./Módulo_0_-_Fundamentos/Matemática_basica/README.md)
+  - **Importancia**: Conocimiento de las herramientas disponibles en el mercado.
+  - **Aplicación**: Inversiones, coberturas y estrategias de trading.
 
 ---
 
