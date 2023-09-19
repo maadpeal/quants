@@ -1,4 +1,4 @@
-### D. Fundamentos Matemáticos:
+# Fundamentos Matemáticos:
 
 1. **Probabilidad y Simulación**:
    - Estudio de variables aleatorias y sus distribuciones.
