@@ -1,4 +1,4 @@
-# C. Fundamentos Computacionales (Avanzados):
+# Fundamentos Computacionales (Avanzados):
 
 ## 1. **Python (Avanzado)**:
    - Bibliotecas especializadas: Pandas, NumPy, SciPy.
