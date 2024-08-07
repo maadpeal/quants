@@ -6,6 +6,11 @@
      - Capitalización
      - Descuento
    - **Valor presente y futuro**:
+     - Valor presente:
+       ![formula de valor presente](https://github.com/maadpeal/quants/blob/main/imagenes/valor_presente.png)
+       VP = valor presente
+       VF = Valor futuro
+       r = rendimiento
      - Valor presente neto (VPN)
      - Valor futuro
    - **Tasas de interés y descuento**:
