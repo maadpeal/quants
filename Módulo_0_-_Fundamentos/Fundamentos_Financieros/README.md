@@ -26,7 +26,7 @@
        
        VP = 197.950 / 1 + 0.07 = 185.000
        
-       De esta manera se puede saber si vale la pena o no una inversion, si es mejor recibir o hacer una inversion ahora, o si es mejor algo diferente con el dinero.
+       De esta manera se puede saber si vale la pena o no una inversion, si es mejor recibir o hacer una inversion ahora, o si es mejor hacer algo diferente con el dinero.
        
      - Valor presente neto (VPN)
      - Valor futuro
