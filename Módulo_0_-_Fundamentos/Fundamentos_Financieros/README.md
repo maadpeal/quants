@@ -6,8 +6,8 @@
      - Capitalización
      - Descuento
    - **Valor presente y futuro**:
-     - Valor presente:
-       ![formula de valor presente](https://github.com/maadpeal/quants/blob/main/imagenes/valor_presente.png)
+     - Valor presente: \n
+       ![formula de valor presente](https://github.com/maadpeal/quants/blob/main/imagenes/valor_presente.png) \n
        VP = valor presente
        VF = Valor futuro
        r = rendimiento
