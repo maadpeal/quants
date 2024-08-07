@@ -15,6 +15,13 @@
        VF = Valor futuro
        
        r = rendimiento
+       Ejemplo:
+       VF = 197.950
+       r = 7% anual
+       Si quiero saber cuanto debe ser el capital para obtener ese valor futuro a esa tasa se debe aplicar la formula de arriba.
+       VP = 197.950 / 1 + 0.07 = 185.000
+       De esta manera se puede saber si vale la pena o no una inversion, si es mejor recibir o hacer una inversion ahora, o si es mejor algo diferente con el dinero.
+       
      - Valor presente neto (VPN)
      - Valor futuro
    - **Tasas de interés y descuento**:
