@@ -30,6 +30,13 @@
        
      - Valor presente neto (VPN)
      - Valor futuro
+    
+       El valor futuro de una operacion es el valor presente multiplicado por la cantidad de meses del interes en cuestion.
+
+       Por ejemplo:
+
+       10.000 * 1 + 0.10(el interes anual o de cualquier periodo que corresponda) = 11.000
+       
    - **Tasas de interés y descuento**:
      - Tasa nominal y efectiva
      - Tasas equivalentes
