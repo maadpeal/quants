@@ -46,7 +46,7 @@
        
        VPN = -1000 + 972.72 = -27.27
 
-       Como el valor final es negativo no vale la pena hacer la inversión propuesta porque te daria una tasa invirtiendolo por tu cuenta.
+       Como el valor final es negativo no vale la pena hacer la inversión propuesta porque te daria un rendimiento mejor invirtiendolo por tu cuenta.
 
        
      - Valor futuro
