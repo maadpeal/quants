@@ -3,6 +3,7 @@
 ## 1. **Aritmética Financiera**:
    - **Interés simple y compuesto**:
      - Cálculo de intereses
+       
        ![interes simple](https://github.com/maadpeal/quants/blob/main/imagenes/intereses.png)
        
        Es la misma formula para el interes simple y para el interes compuesto.
