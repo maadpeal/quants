@@ -15,6 +15,20 @@
        La capitalización es el proceso mediante el cual el dinero aumenta de valor con el tiempo gracias a los intereses.
        
      - Descuento
+    
+       Es el calculo del valor presente de un flujo futuro
+
+       ![descuento](https://github.com/maadpeal/quants/blob/main/imagenes/descuento.png)
+
+       Mediante esta formula podemos calcular el valor presente de multiples periodoss de tiempo en base a la t de la formula.
+
+       ![gradica descuento](https://github.com/maadpeal/quants/blob/main/imagenes/descuento_grafica.jpeg)
+
+       Mediante la grafica de arriba podemos observar como el inicio de un proceso de capitalizacion es el descuento de otros y asi sucesivamente.
+
+       Por ejemplo los 442 es el descuento de los 1000 proyectados
+
+       
    - **Valor presente y futuro**:
      - Valor presente:
        
