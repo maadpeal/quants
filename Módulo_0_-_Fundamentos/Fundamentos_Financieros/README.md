@@ -3,6 +3,12 @@
 ## 1. **Aritmética Financiera**:
    - **Interés simple y compuesto**:
      - Cálculo de intereses
+       ![interes simple](https://github.com/maadpeal/quants/blob/main/imagenes/intereses.png)
+       
+       Es la misma formula para el interes simple y para el interes compuesto.
+
+       Si se desea por ejemplo sacar el interes o el monto que obtendre de aqui a tres años lo unico que hay que hacer es modificar la t=3, Y se hace la operacion teniendo como resultado el monto que se obtendria si se invierte tanto el capital inicial como sus intereses.
+       
      - Capitalización
      - Descuento
    - **Valor presente y futuro**:
