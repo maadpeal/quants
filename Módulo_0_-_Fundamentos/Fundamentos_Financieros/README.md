@@ -96,6 +96,15 @@
               Con capitalización mensual, el interés fue de $1,268.25.
        
      - Tasas equivalentes
+
+           - Dos tasas son equivalentes si producen el mismo resultado financiero al final de un periodo determinado.
+           - Por ejemplo una tasa a corto plazo puede ser equivalente a una de largo plazo.
+           - Es importante esto porque permite transformar una tasa a otra.
+           - Formula : (1 + Tasa a convertir)^n = (1 + Tasa equivalente)
+              La "tasa a convertir" es la tasa que ya conocemos.
+              "n" es el número de periodos por el cual la tasa se aplicará (por ejemplo, si queremos pasar de mensual a anual, n=12).
+              La "tasa equivalente" es la tasa que buscamos.
+
      - Descuento comercial y bancario
 
    **Importancia**: La aritmética financiera es esencial en la toma de decisiones de inversión y financiamiento. Comprender los conceptos de interés y valor temporal del dinero es fundamental en finanzas.
