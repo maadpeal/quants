@@ -83,6 +83,18 @@
        
    - **Tasas de interés y descuento**:
      - Tasa nominal y efectiva
+
+           - En la **tasa nominal** no se toma en cuenta la capitalizacion (agregar los intereses al capital para generar mas intereses).
+           - En la **tasa efectiva** si se toma en cuenta la capitalizacion (mediante el interes compuesto), generalmente la tasa efectiva tendera a ser mayor que la nominal.
+           - La tasa nominal se denomina TIN, y la tasa efectiva se denomina TAE.
+           - Ejemplo:
+              Capital inicial = 10.000
+              Tasa anual = 12%
+              Capitalizacion = mensual.
+              Comparación:
+              Sin capitalización, el interés fue de $1,200.
+              Con capitalización mensual, el interés fue de $1,268.25.
+       
      - Tasas equivalentes
      - Descuento comercial y bancario
 
